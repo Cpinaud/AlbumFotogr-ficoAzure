@@ -1,0 +1,17 @@
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\bin\Release\net6.0\BlobStorage.Logica.deps.json
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\bin\Release\net6.0\BlobStorage.Logica.dll
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\bin\Release\net6.0\BlobStorage.Logica.pdb
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\obj\Release\net6.0\BlobStorage.Logica.csproj.AssemblyReference.cache
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\obj\Release\net6.0\BlobStorage.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\obj\Release\net6.0\BlobStorage.Logica.AssemblyInfoInputs.cache
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\obj\Release\net6.0\BlobStorage.Logica.AssemblyInfo.cs
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\obj\Release\net6.0\BlobStorage.Logica.csproj.CoreCompileInputs.cache
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\obj\Release\net6.0\BlobStorage.Logica.dll
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\obj\Release\net6.0\refint\BlobStorage.Logica.dll
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\obj\Release\net6.0\BlobStorage.Logica.pdb
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\obj\Release\net6.0\ref\BlobStorage.Logica.dll
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\bin\Release\net6.0\BlobStorage.Logica.runtimeconfig.json
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\bin\Release\net6.0\BlobStorage.Data.dll
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\bin\Release\net6.0\BlobStorage.Data.pdb
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\obj\Release\net6.0\BlobStorage.Logica.csproj.CopyComplete
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Logica\obj\Release\net6.0\BlobStorage.Logica.genruntimeconfig.cache

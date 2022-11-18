@@ -1,0 +1,24 @@
+﻿@model List<BlobStorage.Data.EF.LogAlbum>
+
+    <h1>Auditoría del álbum</h1>
+
+<table class="table table-striped">
+       <tr>
+        <th>Id</th>
+        <th>Nombre Imagen</th>
+        <th>Autor</th>
+        <th>Fecha y hora de subida</th>
+       </tr> 
+
+@foreach (var log in Model)
+{
+        <tr>
+            <td>@log.Id</td>
+            <td>@log.NombreImagen</td>
+            <td>@log.NombreUser</td>
+            <td>@log.DateTime</td>
+            <td><a class="btn btn-danger" asp-controller="BlobStorage" asp-action="DeleteLog" asp-route-id="@log.Id">Eliminar registro</a></td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,23 @@
+﻿<div class="text-center">
+    <form method="post" enctype="multipart/form-data">
+        <label>Name: </label>
+        <input type="text" name="nombreImagen" class="form-control" required />
+        <br />
+        <label>Subido por: </label>
+        <input type="text" name="nombreUsuario" class="form-control" required />
+        <br />
+        <div class="input-file-container">
+            <input name="imagenBBDD" class="input-file" id="my-file" type="file">
+            <label tabindex="0" for="my-file" class="input-file-trigger" width:"20%;"></label>
+            <p class="file-return"></p>
+        </div>
+        <br />
+        <button class="btn btn-info ">Subir Imágen</button>
+    </form>
+</div>
+
+
+
+<div>
+    <a class="nav-link text-dark volver" asp-area="" asp-controller="BlobStorage" asp-action="Index">Volver</a>
+</div>

@@ -1,0 +1,21 @@
+﻿@model List<string>
+
+<div class="muro">
+    <div>
+        <a class="btn btn-info" asp-controller="BlobStorage" asp-action="UploadImagen">Subir Imagen</a>
+    </div>
+    <div class="fotos">
+        @if (Model != null)
+        {
+            @foreach (string img in Model)
+            {
+                <div class="card item polaroid" style="width: 18rem;">
+                    <img class="card-img-top" src="https://blobstoragepruebainicial.blob.core.windows.net/pruebainicialblob/@img">
+                    <div class="card-body">
+                        <div class="caption">@img <a class="btn btn-danger" asp-controller="BlobStorage" asp-action="Delete" asp-route-nombre="@img">Delete</a></div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>

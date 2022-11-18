@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Album fotográfico</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BlobStorage.styles.css" asp-append-version="true" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <a class="nav-link text-dark" asp-area="" asp-controller="BlobStorage" asp-action="Detalles" style="align-self:left;">Detalles</a>
+        <a class="nav-link text-dark" asp-area="" asp-controller="BlobStorage" asp-action="Logs" style="align-self:left;">Auditoría</a>
+        <a class="nav-link text-dark" asp-area="" asp-controller="BlobStorage" asp-action="Index" style="align-self:left;">Album</a>
+    </header>
+    <div class="container">
+            @RenderBody()
+    </div>
+
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <footer>
+        <div class="container" style="color:rgba(0,0,0,0.4);">
+            &copy; 2022 - Grupo5 - Programación Web III - Tecnicatura en Desarrollo Web - UNLaM
+        </div>
+    </footer>
+</body>
+
+</html>

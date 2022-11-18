@@ -1,0 +1,7 @@
+.vs/
+BlobStorage/appsettings.json
+BlobStorage/bin/Release/
+BlobStorage/obj/Release/
+BlobStorage/obj/Debug/net6.0/
+BlobStorage/bin/Debug/net6.0/
+BlobStorage/bin/Debug/net6.0/appsettings.json

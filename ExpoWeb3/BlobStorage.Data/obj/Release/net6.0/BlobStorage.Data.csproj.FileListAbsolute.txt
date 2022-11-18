@@ -1,0 +1,14 @@
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\bin\Release\net6.0\BlobStorage.Data.deps.json
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\bin\Release\net6.0\BlobStorage.Data.runtimeconfig.json
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\bin\Release\net6.0\BlobStorage.Data.dll
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\bin\Release\net6.0\BlobStorage.Data.pdb
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\obj\Release\net6.0\BlobStorage.Data.csproj.AssemblyReference.cache
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\obj\Release\net6.0\BlobStorage.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\obj\Release\net6.0\BlobStorage.Data.AssemblyInfoInputs.cache
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\obj\Release\net6.0\BlobStorage.Data.AssemblyInfo.cs
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\obj\Release\net6.0\BlobStorage.Data.csproj.CoreCompileInputs.cache
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\obj\Release\net6.0\BlobStorage.Data.dll
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\obj\Release\net6.0\refint\BlobStorage.Data.dll
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\obj\Release\net6.0\BlobStorage.Data.pdb
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\obj\Release\net6.0\BlobStorage.Data.genruntimeconfig.cache
+C:\Users\LOPEZDIEGOMANUEL\source\repos\BlobStorage\BlobStorage.Data\obj\Release\net6.0\ref\BlobStorage.Data.dll
